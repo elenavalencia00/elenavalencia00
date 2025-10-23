@@ -18,5 +18,5 @@
 <p align="center">
   <!-- Contacto -->
   ✨ <b>Contacto</b> ✨<br>
-  🖇️ <a href="https://www.linkedin.com/">LinkedIn</a> | ✉️ <code>elenavalenciavilches@gmail.com</code>
+  🖇️ <a href="https://www.linkedin.com/in/elena-valencia-vilches">LinkedIn</a> | ✉️ <code>elenavalenciavilches@gmail.com</code>
 </p>
