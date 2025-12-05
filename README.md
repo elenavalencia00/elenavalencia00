@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  <b href="https://elenavalenciavilches.vercel.app/">Portfolio</b><br> 
+  <a href="https://elenavalenciavilches.vercel.app/">Portfolio</b><br> 
 </p>
