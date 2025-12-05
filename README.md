@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <!-- Habilidades estilo pixel/fantasía -->
+ 
   <img src="https://img.shields.io/badge/🌟HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/🌟CSS3-1F75FE?style=for-the-badge&logo=css3&logoColor=white"/>
    <img src="https://img.shields.io/badge/🌟Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -16,7 +16,11 @@
 ---
 
 <p align="center">
-  <!-- Contacto -->
+ 
   <b>Contact</b><br>
   🖇️ <a href="https://www.linkedin.com/in/elena-valencia-vilches">LinkedIn</a> | ✉️ <code>elenavalenciavilches@gmail.com</code>
+</p>
+
+<p align="center">
+  <b href="https://elenavalenciavilches.vercel.app/">Portfolio</b><br> 
 </p>
